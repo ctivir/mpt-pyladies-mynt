@@ -6,3 +6,4 @@ build
 # enviroment
 venv
 .env
+.editorconfig
